@@ -24,14 +24,6 @@ I made this app so that I could make the screen 100% warm past midnight, so that
 
 Night Fade lets you **gradually increase** the Night Shift warmth intensity at scheduled times throughout the night - perfect for those who want their screen to get progressively warmer as bedtime approaches.
 
-<br>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jesaitarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
-<br>
-
 ## 🚀 Install (takes just a minute!)
 
 ### Download
@@ -42,6 +34,12 @@ Night Fade lets you **gradually increase** the Night Shift warmth intensity at s
 Since I'm an independent developer who can't spend the $99/year Apple Developer just for this free open-source app, you'll need to follow a quick one-time setup to bypass macOS's Gatekeeper warnings.
 
 ✅ **Verified safe on VirusTotal:** [View scan results](https://www.virustotal.com/gui/file/f8f201aa757a1a493ed99fd87ed9388f7e9fd997d716423b767f26537f73579e)
+
+<br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jesaitarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
 <br>
 
